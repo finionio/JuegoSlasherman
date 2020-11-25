@@ -1,0 +1,1 @@
+text[0] = "Do not continue, turn back\nDANGER AHEAD";

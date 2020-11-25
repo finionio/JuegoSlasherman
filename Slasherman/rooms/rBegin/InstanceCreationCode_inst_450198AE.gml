@@ -1,0 +1,1 @@
+text[0] = "Orcs' territory\nBeware";
